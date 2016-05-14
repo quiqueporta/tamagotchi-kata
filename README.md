@@ -1,0 +1,2 @@
+# tamagotchi-kata
+Kata Tamagotchi
